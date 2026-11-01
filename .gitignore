@@ -1,0 +1,6 @@
+venv/
+data/creditcard.csv
+test_sample.csv
+app_old.py
+__pycache__/
+.ipynb_checkpoints/
